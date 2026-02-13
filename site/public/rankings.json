@@ -1,0 +1,1429 @@
+{
+  "generated_at": "2026-02-13T21:24:20.354286+00:00",
+  "total_repos": 9,
+  "universities": [
+    {
+      "domain": "berkeley.edu",
+      "name": "UC Berkeley",
+      "score": 42805338,
+      "repos_contributed": 5,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1002,
+          "weighted_commits": 970.0,
+          "stars": 42811,
+          "score": 41525272
+        },
+        {
+          "repo": "gepa-ai/gepa",
+          "commits": 133,
+          "weighted_commits": 56.0,
+          "stars": 2297,
+          "score": 128713
+        },
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 17,
+          "weighted_commits": 9.3,
+          "stars": 97382,
+          "score": 903623
+        },
+        {
+          "repo": "stanfordnlp/dspy",
+          "commits": 29,
+          "weighted_commits": 7.7,
+          "stars": 32181,
+          "score": 247528
+        },
+        {
+          "repo": "ziems/arbor",
+          "commits": 1,
+          "weighted_commits": 0.6,
+          "stars": 314,
+          "score": 202
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "domain": "umich.edu",
+      "name": "University of Michigan",
+      "score": 28450524,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1041,
+          "weighted_commits": 290.0,
+          "stars": 97382,
+          "score": 28238912
+        },
+        {
+          "repo": "apache/spark",
+          "commits": 6,
+          "weighted_commits": 4.9,
+          "stars": 42811,
+          "score": 211612
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "domain": "mit.edu",
+      "name": "MIT",
+      "score": 20488648,
+      "repos_contributed": 4,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 221,
+          "weighted_commits": 207.8,
+          "stars": 97382,
+          "score": 20235226
+        },
+        {
+          "repo": "alexzhang13/rlm",
+          "commits": 65,
+          "weighted_commits": 38.2,
+          "stars": 2448,
+          "score": 93614
+        },
+        {
+          "repo": "apache/spark",
+          "commits": 6,
+          "weighted_commits": 3.7,
+          "stars": 42811,
+          "score": 159608
+        },
+        {
+          "repo": "ziems/arbor",
+          "commits": 2,
+          "weighted_commits": 0.6,
+          "stars": 314,
+          "score": 201
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "domain": "cornell.edu",
+      "name": "Cornell University",
+      "score": 17445248,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 385,
+          "weighted_commits": 176.0,
+          "stars": 97382,
+          "score": 17138429
+        },
+        {
+          "repo": "apache/spark",
+          "commits": 12,
+          "weighted_commits": 7.2,
+          "stars": 42811,
+          "score": 306818
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "domain": "utexas.edu",
+      "name": "UT Austin",
+      "score": 6828716,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 88,
+          "weighted_commits": 69.3,
+          "stars": 97382,
+          "score": 6750127
+        },
+        {
+          "repo": "apache/spark",
+          "commits": 5,
+          "weighted_commits": 1.8,
+          "stars": 42811,
+          "score": 78589
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "domain": "ox.ac.uk",
+      "name": "University of Oxford",
+      "score": 4990347,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 53,
+          "weighted_commits": 51.2,
+          "stars": 97382,
+          "score": 4990347
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "domain": "cmu.edu",
+      "name": "Carnegie Mellon University",
+      "score": 4011541,
+      "repos_contributed": 3,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 54,
+          "weighted_commits": 41.1,
+          "stars": 97382,
+          "score": 4002586
+        },
+        {
+          "repo": "stanford-futuredata/ColBERT",
+          "commits": 1,
+          "weighted_commits": 1.0,
+          "stars": 3775,
+          "score": 3775
+        },
+        {
+          "repo": "apache/spark",
+          "commits": 4,
+          "weighted_commits": 0.1,
+          "stars": 42811,
+          "score": 5180
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "domain": "brown.edu",
+      "name": "Brown University",
+      "score": 1828341,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 23,
+          "weighted_commits": 18.2,
+          "stars": 97382,
+          "score": 1767674
+        },
+        {
+          "repo": "apache/spark",
+          "commits": 2,
+          "weighted_commits": 1.4,
+          "stars": 42811,
+          "score": 60666
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "domain": "stanford.edu",
+      "name": "Stanford University",
+      "score": 1515872,
+      "repos_contributed": 3,
+      "repos": [
+        {
+          "repo": "stanford-futuredata/ColBERT",
+          "commits": 77,
+          "weighted_commits": 48.2,
+          "stars": 3775,
+          "score": 181804
+        },
+        {
+          "repo": "stanfordnlp/dspy",
+          "commits": 54,
+          "weighted_commits": 31.3,
+          "stars": 32181,
+          "score": 1007381
+        },
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 4,
+          "weighted_commits": 3.4,
+          "stars": 97382,
+          "score": 326687
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "domain": "cse.ohio-state.edu",
+      "name": "cse.ohio-state.edu",
+      "score": 1443276,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 36,
+          "weighted_commits": 33.7,
+          "stars": 42811,
+          "score": 1443276
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "domain": "umn.edu",
+      "name": "University of Minnesota",
+      "score": 1293642,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 41,
+          "weighted_commits": 13.3,
+          "stars": 97382,
+          "score": 1293642
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "domain": "jhu.edu",
+      "name": "Johns Hopkins University",
+      "score": 708085,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 13,
+          "weighted_commits": 7.3,
+          "stars": 97382,
+          "score": 708085
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "domain": "nyu.edu",
+      "name": "New York University",
+      "score": 602590,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 7,
+          "weighted_commits": 4.9,
+          "stars": 97382,
+          "score": 481666
+        },
+        {
+          "repo": "apache/spark",
+          "commits": 4,
+          "weighted_commits": 2.8,
+          "stars": 42811,
+          "score": 120925
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "domain": "duke.edu",
+      "name": "Duke University",
+      "score": 601253,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 8,
+          "weighted_commits": 6.2,
+          "stars": 97382,
+          "score": 601253
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "domain": "columbia.edu",
+      "name": "Columbia University",
+      "score": 482244,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 8,
+          "weighted_commits": 6.7,
+          "stars": 42811,
+          "score": 288336
+        },
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 3,
+          "weighted_commits": 2.0,
+          "stars": 97382,
+          "score": 193908
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "domain": "ttic.edu",
+      "name": "ttic.edu",
+      "score": 467282,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 5,
+          "weighted_commits": 4.8,
+          "stars": 97382,
+          "score": 467282
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "domain": "vt.edu",
+      "name": "Virginia Tech",
+      "score": 416612,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 5,
+          "weighted_commits": 4.3,
+          "stars": 97382,
+          "score": 416612
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "domain": "illinois.edu",
+      "name": "University of Illinois Urbana-Champaign",
+      "score": 395798,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 6,
+          "weighted_commits": 3.7,
+          "stars": 97382,
+          "score": 362601
+        },
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.8,
+          "stars": 42811,
+          "score": 33197
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "domain": "rit.edu",
+      "name": "rit.edu",
+      "score": 301238,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 5,
+          "weighted_commits": 3.1,
+          "stars": 97382,
+          "score": 301238
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "domain": "wustl.edu",
+      "name": "wustl.edu",
+      "score": 294845,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 4,
+          "weighted_commits": 3.0,
+          "stars": 97382,
+          "score": 294845
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "domain": "cam.ac.uk",
+      "name": "University of Cambridge",
+      "score": 272614,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 5,
+          "weighted_commits": 2.8,
+          "stars": 97382,
+          "score": 272614
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "domain": "purdue.edu",
+      "name": "Purdue University",
+      "score": 222573,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 4,
+          "weighted_commits": 2.3,
+          "stars": 97382,
+          "score": 222573
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "domain": "harvard.edu",
+      "name": "Harvard University",
+      "score": 213789,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 3,
+          "weighted_commits": 2.2,
+          "stars": 97382,
+          "score": 213789
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "domain": "gatech.edu",
+      "name": "Georgia Tech",
+      "score": 210985,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 3,
+          "weighted_commits": 1.6,
+          "stars": 42811,
+          "score": 69092
+        },
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 3,
+          "weighted_commits": 1.5,
+          "stars": 97382,
+          "score": 141893
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "domain": "bu.edu",
+      "name": "Boston University",
+      "score": 198103,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 4,
+          "weighted_commits": 2.0,
+          "stars": 97382,
+          "score": 198103
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "domain": "polytechnique.edu",
+      "name": "polytechnique.edu",
+      "score": 188184,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 4,
+          "weighted_commits": 1.7,
+          "stars": 97382,
+          "score": 161299
+        },
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.6,
+          "stars": 42811,
+          "score": 26886
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "domain": "wisc.edu",
+      "name": "University of Wisconsin-Madison",
+      "score": 186002,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 4,
+          "weighted_commits": 1.9,
+          "stars": 97382,
+          "score": 186002
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "domain": "case.edu",
+      "name": "case.edu",
+      "score": 180296,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 2,
+          "weighted_commits": 1.9,
+          "stars": 97382,
+          "score": 180296
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "domain": "usc.edu",
+      "name": "University of Southern California",
+      "score": 180061,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 3,
+          "weighted_commits": 2.6,
+          "stars": 42811,
+          "score": 111545
+        },
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 2,
+          "weighted_commits": 0.7,
+          "stars": 97382,
+          "score": 68516
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "domain": "yale.edu",
+      "name": "Yale University",
+      "score": 178934,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 3,
+          "weighted_commits": 1.8,
+          "stars": 97382,
+          "score": 178934
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "domain": "ucsc.edu",
+      "name": "UC Santa Cruz",
+      "score": 168778,
+      "repos_contributed": 3,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 3,
+          "weighted_commits": 1.9,
+          "stars": 42811,
+          "score": 81257
+        },
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.9,
+          "stars": 97382,
+          "score": 85805
+        },
+        {
+          "repo": "PrimeIntellect-ai/verifiers",
+          "commits": 1,
+          "weighted_commits": 0.4,
+          "stars": 3831,
+          "score": 1716
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "domain": "uw.edu",
+      "name": "University of Washington",
+      "score": 168375,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 2,
+          "weighted_commits": 1.7,
+          "stars": 97382,
+          "score": 168375
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "domain": "ucla.edu",
+      "name": "UCLA",
+      "score": 121461,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 2,
+          "weighted_commits": 1.2,
+          "stars": 97382,
+          "score": 121461
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "domain": "sjsu.edu",
+      "name": "sjsu.edu",
+      "score": 102490,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 3,
+          "weighted_commits": 2.4,
+          "stars": 42811,
+          "score": 102490
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "domain": "nd.edu",
+      "name": "University of Notre Dame",
+      "score": 98455,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "ziems/arbor",
+          "commits": 296,
+          "weighted_commits": 133.8,
+          "stars": 314,
+          "score": 41999
+        },
+        {
+          "repo": "stanfordnlp/dspy",
+          "commits": 12,
+          "weighted_commits": 1.8,
+          "stars": 32181,
+          "score": 56456
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "domain": "dartmouth.edu",
+      "name": "Dartmouth College",
+      "score": 96146,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 1.0,
+          "stars": 97382,
+          "score": 96146
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "domain": "cs.ucl.ac.uk",
+      "name": "cs.ucl.ac.uk",
+      "score": 96090,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 1.0,
+          "stars": 97382,
+          "score": 96090
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "domain": "hmc.edu",
+      "name": "hmc.edu",
+      "score": 94703,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 4,
+          "weighted_commits": 2.2,
+          "stars": 42811,
+          "score": 94703
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "domain": "cs.toronto.edu",
+      "name": "cs.toronto.edu",
+      "score": 94358,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 1.0,
+          "stars": 97382,
+          "score": 94358
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "domain": "washington.edu",
+      "name": "University of Washington",
+      "score": 93995,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 1.0,
+          "stars": 97382,
+          "score": 93995
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "domain": "ic.ac.uk",
+      "name": "ic.ac.uk",
+      "score": 91886,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.9,
+          "stars": 97382,
+          "score": 91886
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "domain": "rutgers.edu",
+      "name": "Rutgers University",
+      "score": 91786,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 3,
+          "weighted_commits": 0.9,
+          "stars": 97382,
+          "score": 91786
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "domain": "ece.neu.edu",
+      "name": "ece.neu.edu",
+      "score": 90848,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.9,
+          "stars": 97382,
+          "score": 90848
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "domain": "msu.edu",
+      "name": "Michigan State University",
+      "score": 90758,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.9,
+          "stars": 97382,
+          "score": 90758
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "domain": "anderson.edu",
+      "name": "anderson.edu",
+      "score": 90550,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.9,
+          "stars": 97382,
+          "score": 90550
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "domain": "indiana.edu",
+      "name": "Indiana University",
+      "score": 90373,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 2,
+          "weighted_commits": 0.9,
+          "stars": 97382,
+          "score": 90373
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "domain": "appstate.edu",
+      "name": "appstate.edu",
+      "score": 87665,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.9,
+          "stars": 97382,
+          "score": 87665
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "domain": "wpi.edu",
+      "name": "wpi.edu",
+      "score": 84241,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.9,
+          "stars": 97382,
+          "score": 84241
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "domain": "am.amrita.edu",
+      "name": "am.amrita.edu",
+      "score": 77099,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 2,
+          "weighted_commits": 1.8,
+          "stars": 42811,
+          "score": 77099
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "domain": "utoronto.ca",
+      "name": "University of Toronto",
+      "score": 76733,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 2,
+          "weighted_commits": 0.8,
+          "stars": 97382,
+          "score": 76733
+        }
+      ],
+      "rank": 50
+    },
+    {
+      "domain": "isi.edu",
+      "name": "isi.edu",
+      "score": 75300,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.8,
+          "stars": 97382,
+          "score": 75300
+        }
+      ],
+      "rank": 51
+    },
+    {
+      "domain": "mail.usf.edu",
+      "name": "mail.usf.edu",
+      "score": 68789,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 2,
+          "weighted_commits": 1.6,
+          "stars": 42811,
+          "score": 68789
+        }
+      ],
+      "rank": 52
+    },
+    {
+      "domain": "upenn.edu",
+      "name": "University of Pennsylvania",
+      "score": 67571,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.7,
+          "stars": 97382,
+          "score": 67571
+        }
+      ],
+      "rank": 53
+    },
+    {
+      "domain": "alumni.carnegiemellon.edu",
+      "name": "alumni.carnegiemellon.edu",
+      "score": 66819,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 2,
+          "weighted_commits": 1.6,
+          "stars": 42811,
+          "score": 66819
+        }
+      ],
+      "rank": 54
+    },
+    {
+      "domain": "cs.hmc.edu",
+      "name": "cs.hmc.edu",
+      "score": 64717,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.7,
+          "stars": 97382,
+          "score": 64717
+        }
+      ],
+      "rank": 55
+    },
+    {
+      "domain": "g.skku.edu",
+      "name": "g.skku.edu",
+      "score": 62864,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.6,
+          "stars": 97382,
+          "score": 62864
+        }
+      ],
+      "rank": 56
+    },
+    {
+      "domain": "uci.edu",
+      "name": "UC Irvine",
+      "score": 60754,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 2,
+          "weighted_commits": 0.6,
+          "stars": 97382,
+          "score": 60754
+        }
+      ],
+      "rank": 57
+    },
+    {
+      "domain": "princeton.edu",
+      "name": "Princeton University",
+      "score": 40662,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.9,
+          "stars": 42811,
+          "score": 40662
+        }
+      ],
+      "rank": 58
+    },
+    {
+      "domain": "ncsu.edu",
+      "name": "NC State University",
+      "score": 39573,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.4,
+          "stars": 97382,
+          "score": 39573
+        }
+      ],
+      "rank": 59
+    },
+    {
+      "domain": "ucsd.edu",
+      "name": "UC San Diego",
+      "score": 38418,
+      "repos_contributed": 2,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.8,
+          "stars": 42811,
+          "score": 34246
+        },
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.0,
+          "stars": 97382,
+          "score": 4172
+        }
+      ],
+      "rank": 60
+    },
+    {
+      "domain": "binghamton.edu",
+      "name": "binghamton.edu",
+      "score": 37915,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.9,
+          "stars": 42811,
+          "score": 37915
+        }
+      ],
+      "rank": 61
+    },
+    {
+      "domain": "csh.rit.edu",
+      "name": "csh.rit.edu",
+      "score": 35638,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.8,
+          "stars": 42811,
+          "score": 35638
+        }
+      ],
+      "rank": 62
+    },
+    {
+      "domain": "uchicago.edu",
+      "name": "University of Chicago",
+      "score": 34184,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.8,
+          "stars": 42811,
+          "score": 34184
+        }
+      ],
+      "rank": 63
+    },
+    {
+      "domain": "mtu.edu",
+      "name": "mtu.edu",
+      "score": 29796,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.7,
+          "stars": 42811,
+          "score": 29796
+        }
+      ],
+      "rank": 64
+    },
+    {
+      "domain": "ccs.neu.edu",
+      "name": "ccs.neu.edu",
+      "score": 27391,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.6,
+          "stars": 42811,
+          "score": 27391
+        }
+      ],
+      "rank": 65
+    },
+    {
+      "domain": "unc.edu",
+      "name": "University of North Carolina",
+      "score": 23787,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.6,
+          "stars": 42811,
+          "score": 23787
+        }
+      ],
+      "rank": 66
+    },
+    {
+      "domain": "uno.edu",
+      "name": "uno.edu",
+      "score": 22048,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 2,
+          "weighted_commits": 0.2,
+          "stars": 97382,
+          "score": 22048
+        }
+      ],
+      "rank": 67
+    },
+    {
+      "domain": "dickinson.edu",
+      "name": "dickinson.edu",
+      "score": 19644,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.2,
+          "stars": 97382,
+          "score": 19644
+        }
+      ],
+      "rank": 68
+    },
+    {
+      "domain": "knights.ucf.edu",
+      "name": "knights.ucf.edu",
+      "score": 19528,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.5,
+          "stars": 42811,
+          "score": 19528
+        }
+      ],
+      "rank": 69
+    },
+    {
+      "domain": "oregonstate.edu",
+      "name": "Oregon State University",
+      "score": 18494,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.2,
+          "stars": 97382,
+          "score": 18494
+        }
+      ],
+      "rank": 70
+    },
+    {
+      "domain": "iu.edu",
+      "name": "iu.edu",
+      "score": 18291,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.2,
+          "stars": 97382,
+          "score": 18291
+        }
+      ],
+      "rank": 71
+    },
+    {
+      "domain": "udo.edu",
+      "name": "udo.edu",
+      "score": 14924,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.2,
+          "stars": 97382,
+          "score": 14924
+        }
+      ],
+      "rank": 72
+    },
+    {
+      "domain": "vols.utk.edu",
+      "name": "vols.utk.edu",
+      "score": 13649,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.1,
+          "stars": 97382,
+          "score": 13649
+        }
+      ],
+      "rank": 73
+    },
+    {
+      "domain": "soton.ac.uk",
+      "name": "soton.ac.uk",
+      "score": 13593,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.1,
+          "stars": 97382,
+          "score": 13593
+        }
+      ],
+      "rank": 74
+    },
+    {
+      "domain": "student.monash.edu",
+      "name": "student.monash.edu",
+      "score": 13077,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "stanfordnlp/dspy",
+          "commits": 1,
+          "weighted_commits": 0.4,
+          "stars": 32181,
+          "score": 13077
+        }
+      ],
+      "rank": 75
+    },
+    {
+      "domain": "ustc.edu",
+      "name": "ustc.edu",
+      "score": 5508,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "pytorch/pytorch",
+          "commits": 1,
+          "weighted_commits": 0.1,
+          "stars": 97382,
+          "score": 5508
+        }
+      ],
+      "rank": 76
+    },
+    {
+      "domain": "umass.edu",
+      "name": "UMass Amherst",
+      "score": 4413,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "apache/spark",
+          "commits": 1,
+          "weighted_commits": 0.1,
+          "stars": 42811,
+          "score": 4413
+        }
+      ],
+      "rank": 77
+    },
+    {
+      "domain": "imperial.ac.uk",
+      "name": "imperial.ac.uk",
+      "score": 2841,
+      "repos_contributed": 1,
+      "repos": [
+        {
+          "repo": "PrimeIntellect-ai/prime-rl",
+          "commits": 7,
+          "weighted_commits": 2.7,
+          "stars": 1069,
+          "score": 2841
+        }
+      ],
+      "rank": 78
+    }
+  ]
+}
