@@ -1,0 +1,7 @@
+{
+  "_comment": "Map personal emails to .edu domains. You may only add YOUR OWN email. You can remove your entry at any time either through PR or by submitting an issue.",
+  "aliases": {
+    "johndoe@gmail.com": "stanford.edu",
+    "alex.lx.zhang@gmail.com": "mit.edu"
+  }
+}

@@ -1,0 +1,23 @@
+# torvalds/linux
+# rust-lang/rust
+# nodejs/node
+# django/django
+# pallets/flask
+pytorch/pytorch
+# angular/angular
+# apple/swift
+# Homebrew/brew
+# electron/electron
+# vercel/next.js
+# llvm/llvm-project
+# gcc-mirror/gcc
+# git/git
+# golang/go
+apache/spark
+stanfordnlp/dspy
+alexzhang13/rlm
+ziems/arbor
+gepa-ai/gepa
+stanford-futuredata/ColBERT
+PrimeIntellect-ai/verifiers
+PrimeIntellect-ai/prime-rl
