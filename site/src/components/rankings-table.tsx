@@ -119,9 +119,6 @@ export function RankingsTable({
                               Commits
                             </th>
                             <th className="text-right py-1 font-medium">
-                              Weighted
-                            </th>
-                            <th className="text-right py-1 font-medium">
                               Stars
                             </th>
                             <th className="text-right py-1 font-medium">
@@ -144,9 +141,6 @@ export function RankingsTable({
                               </td>
                               <td className="text-right font-mono py-1">
                                 {r.commits.toLocaleString()}
-                              </td>
-                              <td className="text-right font-mono py-1">
-                                {r.weighted_commits.toLocaleString()}
                               </td>
                               <td className="text-right font-mono py-1">
                                 {formatNumber(r.stars)}

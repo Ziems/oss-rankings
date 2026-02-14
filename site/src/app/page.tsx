@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { RankingsTable } from "@/components/rankings-table";
+import { RankingsPage } from "@/components/rankings-page";
 import type { RankingsData } from "@/lib/types";
 
 function loadRankings(): RankingsData | null {
@@ -26,26 +26,19 @@ export default function Home() {
             projects.
           </p>
           <p className="text-sm text-muted-foreground">
-            Score = weighted commits &times; stars, summed across repos. Earlier
-            commits count more. Click a row to see the breakdown.
+            Earlier commits count more. Click a row to see the breakdown.
           </p>
         </div>
 
         {data ? (
-          <>
-            <RankingsTable universities={data.universities} />
-            <p className="mt-6 text-xs text-muted-foreground">
-              Data from {data.total_repos} repos. Last updated{" "}
-              {new Date(data.generated_at).toLocaleDateString()}.
-            </p>
-          </>
+          <RankingsPage data={data} />
         ) : (
           <div className="rounded-lg border border-dashed p-8 text-center text-muted-foreground">
             <p className="font-medium">No rankings data yet.</p>
             <p className="mt-1 text-sm">
               Run{" "}
               <code className="rounded bg-muted px-1.5 py-0.5 font-mono text-sm">
-                python scripts/collect.py
+                uv run scripts/collect.py
               </code>{" "}
               to generate rankings.json.
             </p>
